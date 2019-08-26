@@ -1,14 +1,13 @@
-���հ�
+最终版，全国赛上场版本
 
-Ӳ����Դ
-
-���̵������̨��CAN1
-���̵����CAN2
-Ħ���ֵ����PA6,PA7
-���ֶ���õ���PE11   TIM1
-����ϵͳ��UART5
-�Ӿ���UART4
-ң����UART2
-������PD9
-����: ���Ƴ�����PA4 ��ȡ���ݵ�ѹPA0 �ŵ�PA5 ���PA2
-����LED��PC10 PC11 PC13  PC14
+硬件资源：
+底盘电机和云台用CAN1
+拨盘电机用CAN2
+摩擦轮电机用PA6,PA7
+弹仓舵机用的是PE11   TIM1
+裁判系统用UART5
+视觉用UART4
+遥控用UART2
+红外用PD9
+电容: 控制充电电流PA4 读取电容电压PA0 放电PA5 充电PA2
+调试LED用PC10 PC11 PC13  PC14
